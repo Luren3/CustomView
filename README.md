@@ -14,6 +14,6 @@
 
 ## 最后一个效果图
 ![sport](http://o9o9d242i.bkt.clouddn.com/sport.gif)
->这个自定义View是模仿QQ运动的那个界面
+>这个自定义View是模仿QQ运动的那个界面 
 
 	
