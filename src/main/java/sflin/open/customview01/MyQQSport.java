@@ -67,7 +67,7 @@ public class MyQQSport extends View {
     public MyQQSport(Context context, AttributeSet attrs) {
         super(context, attrs);
         initAttr(context,attrs);
-        init(context);
+        //init(context);
     }
 
     //初始化配置参数
